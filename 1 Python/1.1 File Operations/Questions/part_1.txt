@@ -1,0 +1,109 @@
+Game theory is the study of mathematical models of strategic interactions.[1] It has applications in many fields of social science, and is used extensively in economics, logic, systems science and computer science.[2] Initially, game theory addressed two-person zero-sum games, in which a participant's gains or losses are exactly balanced by the losses and gains of the other participant. In the 1950s, it was extended to the study of non zero-sum games, and was eventually applied to a wide range of behavioral relations. It is now an umbrella term for the science of rational decision making in humans, animals, and computers.
+
+Modern game theory began with the idea of mixed-strategy equilibria in two-person zero-sum games and its proof by John von Neumann. Von Neumann's original proof used the Brouwer fixed-point theorem on continuous mappings into compact convex sets, which became a standard method in game theory and mathematical economics. His paper was followed by Theory of Games and Economic Behavior (1944), co-written with Oskar Morgenstern, which considered cooperative games of several players.[3] The second edition provided an axiomatic theory of expected utility, which allowed mathematical statisticians and economists to treat decision-making under uncertainty.
+
+Game theory was developed extensively in the 1950s, and was explicitly applied to evolution in the 1970s, although similar developments go back at least as far as the 1930s. Game theory has been widely recognized as an important tool in many fields. John Maynard Smith was awarded the Crafoord Prize for his application of evolutionary game theory in 1999, and fifteen game theorists have won the Nobel Prize in economics as of 2020, including most recently Paul Milgrom and Robert B. Wilson.
+
+History
+Discussions on the mathematics of games began long before the rise of modern, mathematical game theory. Cardano wrote on games of chance in Liber de ludo aleae (Book on Games of Chance), written around 1564 but published posthumously in 1663.[4] Influenced by the work of Fermat and Pascal on the problem of points, Huygens developed the concept of expectation on reasoning about the structure of games of chance, publishing his gambling calculus in De ratiociniis in ludo aleæ (On Reasoning in Games of Chance) in 1657.[5]
+
+In 1713, a letter attributed to Charles Waldegrave, an active Jacobite and uncle to British diplomat James Waldegrave, analyzed a game called "le her". Waldegrave provided a minimax mixed strategy solution to a two-person version of the card game, and the problem is now known as the Waldegrave problem.[6][7]
+
+In 1838, Antoine Augustin Cournot provided a model of competition in oligopolies. Though he did not refer to it as such, he presented a solution that is the Nash equilibrium of the game in his Recherches sur les principes mathématiques de la théorie des richesses (Researches into the Mathematical Principles of the Theory of Wealth). In 1883, Joseph Bertrand critiqued Cournot's model as unrealistic, providing an alternative model of price competition[8] which would later be formalized by Francis Ysidro Edgeworth.[9]
+
+In 1913, Ernst Zermelo published Über eine Anwendung der Mengenlehre auf die Theorie des Schachspiels (On an Application of Set Theory to the Theory of the Game of Chess), which proved that the optimal chess strategy is strictly determined.[10]
+
+Foundation
+
+John von Neumann
+The work of John von Neumann established game theory as its own independent field in the early-to-mid 20th century, with von Neumann publishing his paper On the Theory of Games of Strategy in 1928.[11][12] Von Neumann's original proof used Brouwer's fixed-point theorem on continuous mappings into compact convex sets, which became a standard method in game theory and mathematical economics. Von Neumann's work in game theory culminated in his 1944 book Theory of Games and Economic Behavior, co-authored with Oskar Morgenstern.[13] The second edition of this book provided an axiomatic theory of utility, which reincarnated Daniel Bernoulli's old theory of utility (of money) as an independent discipline. This foundational work contains the method for finding mutually consistent solutions for two-person zero-sum games. Subsequent work focused primarily on cooperative game theory, which analyzes optimal strategies for groups of individuals, presuming that they can enforce agreements between them about proper strategies.[14]
+
+In his 1938 book Applications aux Jeux de Hasard and earlier notes, Émile Borel proved a minimax theorem for two-person zero-sum matrix games only when the pay-off matrix is symmetric and provided a solution to a non-trivial infinite game (known in English as Blotto game). Borel conjectured the non-existence of mixed-strategy equilibria in finite two-person zero-sum games, a conjecture that was proved false by von Neumann.[15]
+
+
+John Nash
+In 1950, John Nash developed a criterion for mutual consistency of players' strategies known as the Nash equilibrium, applicable to a wider variety of games than the criterion proposed by von Neumann and Morgenstern. Nash proved that every finite n-player, non-zero-sum (not just two-player zero-sum) non-cooperative game has what is now known as a Nash equilibrium in mixed strategies.
+
+Game theory experienced a flurry of activity in the 1950s, during which the concepts of the core, the extensive form game, fictitious play, repeated games, and the Shapley value were developed. The 1950s also saw the first applications of game theory to philosophy and political science. The first mathematical discussion of the prisoner's dilemma appeared, and an experiment was undertaken by mathematicians Merrill M. Flood and Melvin Dresher, as part of the RAND Corporation's investigations into game theory. RAND pursued the studies because of possible applications to global nuclear strategy.[16]
+
+Prize-winning achievements
+In 1965, Reinhard Selten introduced his solution concept of subgame perfect equilibria, which further refined the Nash equilibrium. Later he would introduce trembling hand perfection as well. In 1994 Nash, Selten and Harsanyi became Economics Nobel Laureates for their contributions to economic game theory.
+
+In the 1970s, game theory was extensively applied in biology, largely as a result of the work of John Maynard Smith and his evolutionarily stable strategy. In addition, the concepts of correlated equilibrium, trembling hand perfection and common knowledge[a] were introduced and analyzed.
+
+In 1994, John Nash was awarded the Nobel Memorial Prize in the Economic Sciences for his contribution to game theory. Nash's most famous contribution to game theory is the concept of the Nash equilibrium, which is a solution concept for non-cooperative games, published in 1951. A Nash equilibrium is a set of strategies, one for each player, such that no player can improve their payoff by unilaterally changing their strategy.
+
+In 2005, game theorists Thomas Schelling and Robert Aumann followed Nash, Selten, and Harsanyi as Nobel Laureates. Schelling worked on dynamic models, early examples of evolutionary game theory. Aumann contributed more to the equilibrium school, introducing equilibrium coarsening and correlated equilibria, and developing an extensive formal analysis of the assumption of common knowledge and of its consequences.
+
+In 2007, Leonid Hurwicz, Eric Maskin, and Roger Myerson were awarded the Nobel Prize in Economics "for having laid the foundations of mechanism design theory". Myerson's contributions include the notion of proper equilibrium, and an important graduate text: Game Theory, Analysis of Conflict.[1] Hurwicz introduced and formalized the concept of incentive compatibility.
+
+In 2012, Alvin E. Roth and Lloyd S. Shapley were awarded the Nobel Prize in Economics "for the theory of stable allocations and the practice of market design". In 2014, the Nobel went to game theorist Jean Tirole.
+
+Different types of games
+See also: List of games in game theory
+Cooperative / non-cooperative
+Main articles: Cooperative game theory and Non-cooperative game
+A game is cooperative if the players are able to form binding commitments externally enforced (e.g. through contract law). A game is non-cooperative if players cannot form alliances or if all agreements need to be self-enforcing (e.g. through credible threats).[17]
+
+Cooperative games are often analyzed through the framework of cooperative game theory, which focuses on predicting which coalitions will form, the joint actions that groups take, and the resulting collective payoffs. It is different from non-cooperative game theory which focuses on predicting individual players' actions and payoffs by analyzing Nash equilibria.[18][19]
+
+Cooperative game theory provides a high-level approach as it describes only the structure and payoffs of coalitions, whereas non-cooperative game theory also looks at how strategic interaction will affect the distribution of payoffs. As non-cooperative game theory is more general, cooperative games can be analyzed through the approach of non-cooperative game theory (the converse does not hold) provided that sufficient assumptions are made to encompass all the possible strategies available to players due to the possibility of external enforcement of cooperation.
+
+Symmetric / asymmetric
+E	F
+E	1, 2	0, 0
+F	0, 0	1, 2
+An asymmetric game
+Main article: Symmetric game
+A symmetric game is a game where each player earns the same payoff when making the same choice. In other words, the identity of the player does not change the resulting game facing the other player.[20] Many of the commonly studied 2×2 games are symmetric. The standard representations of chicken, the prisoner's dilemma, and the stag hunt are all symmetric games.
+
+The most commonly studied asymmetric games are games where there are not identical strategy sets for both players. For instance, the ultimatum game and similarly the dictator game have different strategies for each player. It is possible, however, for a game to have identical strategies for both players, yet be asymmetric. For example, the game pictured in this section's graphic is asymmetric despite having identical strategy sets for both players.
+
+Zero-sum / non-zero-sum
+A	B
+A	–1, 1	3, −3
+B	0, 0	–2, 2
+A zero-sum game
+Main article: Zero-sum game
+Zero-sum games (more generally, constant-sum games) are games in which choices by players can neither increase nor decrease the available resources. In zero-sum games, the total benefit goes to all players in a game, for every combination of strategies, and always adds to zero (more informally, a player benefits only at the equal expense of others).[21] Poker exemplifies a zero-sum game (ignoring the possibility of the house's cut), because one wins exactly the amount one's opponents lose. Other zero-sum games include matching pennies and most classical board games including Go and chess.
+
+Many games studied by game theorists (including the famed prisoner's dilemma) are non-zero-sum games, because the outcome has net results greater or less than zero. Informally, in non-zero-sum games, a gain by one player does not necessarily correspond with a loss by another.
+
+Furthermore, constant-sum games correspond to activities like theft and gambling, but not to the fundamental economic situation in which there are potential gains from trade. It is possible to transform any constant-sum game into a (possibly asymmetric) zero-sum game by adding a dummy player (often called "the board") whose losses compensate the players' net winnings.
+
+Simultaneous / sequential
+Main articles: Simultaneous game and Sequential game
+Simultaneous games are games where both players move simultaneously, or instead the later players are unaware of the earlier players' actions (making them effectively simultaneous). Sequential games (a type of dynamic games) are games where players do not make decisions simultaneously, and player's earlier actions affect the outcome and decisions of other players.[22] This need not be perfect information about every action of earlier players; it might be very little knowledge. For instance, a player may know that an earlier player did not perform one particular action, while they do not know which of the other available actions the first player actually performed.
+
+The difference between simultaneous and sequential games is captured in the different representations discussed above. Often, normal form is used to represent simultaneous games, while extensive form is used to represent sequential ones. The transformation of extensive to normal form is one way, meaning that multiple extensive form games correspond to the same normal form. Consequently, notions of equilibrium for simultaneous games are insufficient for reasoning about sequential games; see subgame perfection.
+
+In short, the differences between sequential and simultaneous games are as follows:
+
+Sequential	Simultaneous
+Normally denoted by	Decision trees	Payoff matrices
+Prior knowledge
+of opponent's move?	Yes	No
+Time axis?	Yes	No
+Also known as	Extensive-form game
+Extensive game	Strategy game
+Strategic game
+Perfect information and imperfect information
+Main article: Perfect information
+
+A game of imperfect information. The dotted line represents ignorance on the part of player 2, formally called an information set.
+An important subset of sequential games consists of games of perfect information. A game with perfect information means that all players, at every move in the game, know the previous history of the game and the moves previously made by all other players. An imperfect information game is played when the players do not know all moves already made by the opponent such as a simultaneous move game.[23] Examples of perfect-information games include tic-tac-toe, checkers, chess, and Go.[24][25][26]
+
+Many card games are games of imperfect information, such as poker and bridge.[27] Perfect information is often confused with complete information, which is a similar concept pertaining to the common knowledge of each player's sequence, strategies, and payoffs throughout gameplay.[28] Complete information requires that every player know the strategies and payoffs available to the other players but not necessarily the actions taken, whereas perfect information is knowledge of all aspects of the game and players.[29] Games of incomplete information can be reduced, however, to games of imperfect information by introducing "moves by nature".[30]
+
+Bayesian game
+Main article: Bayesian game
+One of the assumptions of the Nash equilibrium is that every player has correct beliefs about the actions of the other players. However, there are many situations in game theory where participants do not fully understand the characteristics of their opponents. Negotiators may be unaware of their opponent's valuation of the object of negotiation, companies may be unaware of their opponent's cost functions, combatants may be unaware of their opponent's strengths, and jurors may be unaware of their colleague's interpretation of the evidence at trial. In some cases, participants may know the character of their opponent well, but may not know how well their opponent knows his or her own character.[31]
+
+Bayesian game means a strategic game with incomplete information. For a strategic game, decision makers are players, and every player has a group of actions. A core part of the imperfect information specification is the set of states. Every state completely describes a collection of characteristics relevant to the player such as their preferences and details about them. There must be a state for every set of features that some player believes may exist.[32]
+
+
+Example of a Bayesian game
+For example, where Player 1 is unsure whether Player 2 would rather date her or get away from her, while Player 2 understands Player 1's preferences as before. To be specific, supposing that Player 1 believes that Player 2 wants to date her under a probability of 1/2 and get away from her under a probability of 1/2 (this evaluation comes from Player 1's experience probably: she faces players who want to date her half of the time in such a case and players who want to avoid her half of the time). Due to the probability involved, the analysis of this situation requires to understand the player's preference for the draw, even though people are only interested in pure strategic equilibrium.
+
+Combinatorial games
+Games in which the difficulty of finding an optimal strategy stems from the multiplicity of possible moves are called combinatorial games. Examples include chess and Go. G
