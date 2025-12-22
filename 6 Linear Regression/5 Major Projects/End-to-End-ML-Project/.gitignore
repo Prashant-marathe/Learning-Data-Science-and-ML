@@ -1,2 +1,4 @@
+# Cover both common virtual env names
 venv/
+.venv/
 .vscode
